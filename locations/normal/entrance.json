@@ -1,0 +1,237 @@
+[
+    {
+        "name": "Castle Entrance",
+        "children": [
+            {
+                "name": "Heart Vessel (Above Death)",
+                "sections": [
+                    {
+                        "name": "Heart Vessel (Above Death)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 372,
+                        "y": 712
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 372,
+                        "y": 1697
+                    }
+                ]
+            },
+            {
+                "name": "Life Vessel (Below Shield Potion)",
+                "access_rules": [
+                    "$canJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Life Vessel (Below Shield Potion)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 392,
+                        "y": 672
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 392,
+                        "y": 1657
+                    }
+                ]
+            },
+            {
+                "name": "Hidden Room",
+                "access_rules": [
+                    "soulofbat,soulofwolf"
+                ],
+                "sections": [
+                    {
+                        "name": "Life Apple",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Jewel sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 192,
+                        "y": 752
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 192,
+                        "y": 1737
+                    }
+                ]
+            },
+            {
+                "name": "Shield Potion",
+                "sections": [
+                    {
+                        "name": "Shield Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 372,
+                        "y": 652
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 372,
+                        "y": 1637
+                    }
+                ]
+            },
+            {
+                "name": "Holy mail",
+                "access_rules": [
+                    "$canFly"
+                ],
+                "sections": [
+                    {
+                        "name": "Holy mail",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 92,
+                        "y": 692
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 92,
+                        "y": 1677
+                    }
+                ]
+            },
+            {
+                "name": "Heart Vessel (Teleport exit)",
+                "sections": [
+                    {
+                        "name": "Heart Vessel (Teleport exit)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 332,
+                        "y": 692
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 332,
+                        "y": 1677
+                    }
+                ]
+            },
+            {
+                "name": "Above Entrance",
+                "access_rules": [
+                    "$canFly"
+                ],
+                "sections": [
+                    {
+                        "name": "Life Vessel",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Power of Wolf",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 42,
+                        "y": 692
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 42,
+                        "y": 1677
+                    }
+                ]
+            },
+            {
+                "name": "Pot Roast",
+                "sections": [
+                    {
+                        "name": "Pot Roast",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 232,
+                        "y": 732
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 232,
+                        "y": 1717
+                    }
+                ]
+            },
+            {
+                "name": "Turkey",
+                "sections": [
+                    {
+                        "name": "Turkey",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 372,
+                        "y": 732
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 372,
+                        "y": 1717
+                    }
+                ]
+            },
+            {
+                "name": "Cube of Zoe",
+                "sections": [
+                    {
+                        "name": "Cube of Zoe",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 352,
+                        "y": 652
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 352,
+                        "y": 1637
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,189 @@
+[
+    {
+        "name": "Reverse Castle Keep",
+        "access_rules": [
+            "$canAccessInvertedCastle"
+        ],
+        "children": [
+            {
+                "name": "Keep Top",
+                "sections": [
+                    {
+                        "name": "Sword of Dawn",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Garnet",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 632,
+                        "y": 832
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 632,
+                        "y": 832
+                    }
+                ]
+            },
+            {
+                "name": "Iron Ball",
+                "sections": [
+                    {
+                        "name": "Iron Ball",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 632,
+                        "y": 872
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 632,
+                        "y": 872
+                    }
+                ]
+            },
+            {
+                "name": "Lightning Mail",
+                "sections": [
+                    {
+                        "name": "Lightning Mail",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 472,
+                        "y": 832
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 472,
+                        "y": 832
+                    }
+                ]
+            },
+            {
+                "name": "Below Throne",
+                "sections": [
+                    {
+                        "name": "Bastard Sword",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Life Vessel",
+                        "item_count": 3
+                    },
+                    {
+                        "name": "Heart Vessel",
+                        "item_count": 3
+                    },
+                    {
+                        "name": "Royal Cloak",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 572,
+                        "y": 932
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 572,
+                        "y": 932
+                    }
+                ]
+            },
+            {
+                "name": "Library Card",
+                "sections": [
+                    {
+                        "name": "Library Card",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 472,
+                        "y": 892
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 472,
+                        "y": 892
+                    }
+                ]
+            },
+            {
+                "name": "Viewing Room",
+                "sections": [
+                    {
+                        "name": "Resist Fire",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Resist Ice",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Resist Thunder",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Resist Stone",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "High Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 482,
+                        "y": 932
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 482,
+                        "y": 932
+                    }
+                ]
+            },
+            {
+                "name": "Zircon",
+                "sections": [
+                    {
+                        "name": "Zircon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 572,
+                        "y": 892
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 572,
+                        "y": 892
+                    }
+                ]
+            }
+        ]
+    }
+]

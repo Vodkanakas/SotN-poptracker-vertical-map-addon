@@ -1,0 +1,254 @@
+[
+    {
+        "name": "Clock Tower",
+        "access_rules": [
+            "$canJump"
+        ],
+        "children": [
+            {
+                "name": "Below Bridge",
+                "sections": [
+                    {
+                        "name": "Magic Missile",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Pentagram",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 1092,
+                        "y": 212
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 1092,
+                        "y": 1197
+                    }
+                ]
+            },
+            {
+                "name": "Pillars",
+                "access_rules": [
+                    "$canHighJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Bekatowa",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shaman Shield",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Ice Mail",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 1072,
+                        "y": 192
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 1072,
+                        "y": 1177
+                    }
+                ]
+            },
+            {
+                "name": "Hidden Room",
+                "sections": [
+                    {
+                        "name": "Star Flail",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Gold Plate",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Steel Helm",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 972,
+                        "y": 212
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 972,
+                        "y": 1197
+                    }
+                ]
+            },
+            {
+                "name": "Healing Mail",
+                "sections": [
+                    {
+                        "name": "Healing Mail",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 832,
+                        "y": 152
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 832,
+                        "y": 1137
+                    }
+                ]
+            },
+            {
+                "name": "Life Vessel",
+                "sections": [
+                    {
+                        "name": "Life Vessel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 992,
+                        "y": 112
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 992,
+                        "y": 1097
+                    }
+                ]
+            },
+            {
+                "name": "Heart Vessel",
+                "sections": [
+                    {
+                        "name": "Heart Vessel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 1032,
+                        "y": 112
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 1032,
+                        "y": 1097
+                    }
+                ]
+            },
+            {
+                "name": "Pot Roast",
+                "sections": [
+                    {
+                        "name": "Pot Roast",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 952,
+                        "y": 132
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 952,
+                        "y": 1117
+                    }
+                ]
+            },
+            {
+                "name": "Keep Approach",
+                "sections": [
+                    {
+                        "name": "Bwaka Knife",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Shuriken",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TNT",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 832,
+                        "y": 132
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 832,
+                        "y": 1117
+                    }
+                ]
+            },
+            {
+                "name": "Karasuman",
+                "sections": [
+                    {
+                        "name": "Karasuman kill",
+                        "hosted_item": "karasuman"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 792,
+                        "y": 132
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 792,
+                        "y": 1117
+                    }
+                ]
+            },
+            {
+                "name": "Fire of Bat",
+                "access_rules": [
+                    "$canFly"
+                ],
+                "sections": [
+                    {
+                        "name": "Fire of Bat",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 1172,
+                        "y": 152
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 1172,
+                        "y": 1137
+                    }
+                ]
+            }
+        ]
+    }
+]

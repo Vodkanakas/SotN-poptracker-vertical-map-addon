@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Colosseum",
+        "access_rules": [
+            "opened_are,jewelofopen",
+            "$canJump"
+        ],
+        "children": [
+            {
+                "name": "Heart Vessel",
+                "sections": [
+                    {
+                        "name": "Heart Vessel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 512,
+                        "y": 412
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 512,
+                        "y": 1397
+                    }
+                ]
+            },
+            {
+                "name": "Shield Rod",
+                "sections": [
+                    {
+                        "name": "Shield Rod",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 252,
+                        "y": 412
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 252,
+                        "y": 1397
+                    }
+                ]
+            },
+            {
+                "name": "Blood Cloak",
+                "sections": [
+                    {
+                        "name": "Blood Cloak",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 392,
+                        "y": 412
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 392,
+                        "y": 1397
+                    }
+                ]
+            },
+            {
+                "name": "Library Card",
+                "sections": [
+                    {
+                        "name": "Library Card",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 352,
+                        "y": 372
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 352,
+                        "y": 1357
+                    }
+                ]
+            },
+            {
+                "name": "Green Tea",
+                "sections": [
+                    {
+                        "name": "Green Tea",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 372,
+                        "y": 412
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 372,
+                        "y": 1397
+                    }
+                ]
+            },
+            {
+                "name": "Holy Sword",
+                "access_rules": [
+                    "$canHighJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Holy Sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 372,
+                        "y": 332
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 372,
+                        "y": 1317
+                    }
+                ]
+            },
+            {
+                "name": "Minotaurus & Werewolf",
+                "sections": [
+                    {
+                        "name": "Minotaurus & Werewolf kill",
+                        "hosted_item": "minotauruswerewolf"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 382,
+                        "y": 372
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 382,
+                        "y": 1357
+                    }
+                ]
+            },
+            {
+                "name": "Form of Mist",
+                "sections": [
+                    {
+                        "name": "Form of Mist",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 412,
+                        "y": 372
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 412,
+                        "y": 1357
+                    }
+                ]
+            }
+        ]
+    }
+]

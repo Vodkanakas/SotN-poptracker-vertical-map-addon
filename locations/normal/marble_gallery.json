@@ -1,0 +1,275 @@
+[
+    {
+        "name": "Marble Gallery",
+        "children": [
+            {
+                "name": "Life Vessel (Left Clock)",
+                "access_rules": [
+                    "$canJump",
+                    "opened_are,jewelofopen"
+                ],
+                "sections": [
+                    {
+                        "name": "Life Vessel (Left Clock)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 612,
+                        "y": 432
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 612,
+                        "y": 1417
+                    }
+                ]
+            },
+            {
+                "name": "Right Clock",
+                "access_rules": [
+                    "cubeofzoe,$canJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Heart Vessel",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Alucart shield",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Alucart mail",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Alucart sword",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 662,
+                        "y": 432
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 662,
+                        "y": 1417
+                    }
+                ]
+            },
+            {
+                "name": "Middle Clock",
+                "access_rules": [
+                    "$canFly"
+                ],
+                "sections": [
+                    {
+                        "name": "Life apple",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Hammer",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 602,
+                        "y": 392
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 602,
+                        "y": 1377
+                    }
+                ]
+            },
+            {
+                "name": "Inside Clock",
+                "access_rules": [
+                    "silverring,goldring"
+                ],
+                "children": [
+                    {
+                        "name": "Right Side",
+                        "sections": [
+                            {
+                                "name": "Life Vessel",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Heart Vessel",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 652,
+                                "y": 472
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 652,
+                                "y": 1457
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Holy Glasses",
+                        "sections": [
+                            {
+                                "name": "Holy Glasses",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 632,
+                                "y": 552
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 632,
+                                "y": 1537
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Under Floor",
+                "access_rules": [
+                    "jewelofopen"
+                ],
+                "sections": [
+                    {
+                        "name": "Library Card",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Attack Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 872,
+                        "y": 452
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 872,
+                        "y": 1437
+                    }
+                ]
+            },
+            {
+                "name": "Hammer(Spirit)",
+                "access_rules": [
+                    "$canHighJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Hammer(Spirit)",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 512,
+                        "y": 532
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 512,
+                        "y": 1517
+                    }
+                ]
+            },
+            {
+                "name": "Str. Potion",
+                "access_rules": [
+                    "$canHighJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Str. Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 512,
+                        "y": 492
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 512,
+                        "y": 1477
+                    }
+                ]
+            },
+            {
+                "name": "Spirit Orb",
+                "sections": [
+                    {
+                        "name": "Spirit Orb",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 492,
+                        "y": 552
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 492,
+                        "y": 1537
+                    }
+                ]
+            },
+            {
+                "name": "Gravity Boots",
+                "access_rules": [
+                    "$canFly"
+                ],
+                "sections": [
+                    {
+                        "name": "Gravity Boots",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 672,
+                        "y": 392
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 672,
+                        "y": 1377
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,161 @@
+[
+    {
+        "name": "Reverse Colosseum",
+        "access_rules": [
+            "$canAccessInvertedCastle"
+        ],
+        "children": [
+            {
+                "name": "Fury Plate",
+                "sections": [
+                    {
+                        "name": "Fury Plate",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 872,
+                        "y": 652
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 872,
+                        "y": 652
+                    }
+                ]
+            },
+            {
+                "name": "Zircon",
+                "sections": [
+                    {
+                        "name": "Zircon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 992,
+                        "y": 572
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 992,
+                        "y": 572
+                    }
+                ]
+            },
+            {
+                "name": "Buffalo Star",
+                "sections": [
+                    {
+                        "name": "Buffalo Star",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 872,
+                        "y": 572
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 872,
+                        "y": 572
+                    }
+                ]
+            },
+            {
+                "name": "Gram",
+                "sections": [
+                    {
+                        "name": "Gram",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 852,
+                        "y": 572
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 852,
+                        "y": 572
+                    }
+                ]
+            },
+            {
+                "name": "Aquamarine",
+                "sections": [
+                    {
+                        "name": "Aquamarine",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 732,
+                        "y": 572
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 732,
+                        "y": 572
+                    }
+                ]
+            },
+            {
+                "name": "Passage",
+                "sections": [
+                    {
+                        "name": "Heart Vessel",
+                        "item_count": 2
+                    },
+                    {
+                        "name": "Life Vessel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 792,
+                        "y": 592
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 792,
+                        "y": 592
+                    }
+                ]
+            },
+            {
+                "name": "Fake Trevor & Grant & Sypha",
+                "sections": [
+                    {
+                        "name": "Fake Trevor & Grant & Sypha kill",
+                        "hosted_item": "faketrio"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 862,
+                        "y": 612
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 862,
+                        "y": 612
+                    }
+                ]
+            }
+        ]
+    }
+]

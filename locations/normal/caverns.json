@@ -1,0 +1,739 @@
+[
+    {
+        "name": "Underground Caverns",
+        "children": [
+            {
+                "name": "Upper Caverns",
+                "access_rules": [
+                    "jewelofopen",
+                    "opened_no4,$canFly"
+                ],
+                "children": [
+                    {
+                        "name": "Zircon",
+                        "access_rules": [
+                            "$canJump"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Zircon",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 772,
+                                "y": 452
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 772,
+                                "y": 1437
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Heart Vessel",
+                        "sections": [
+                            {
+                                "name": "Heart Vessel",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 712,
+                                "y": 472
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 712,
+                                "y": 1457
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Life Vessel",
+                        "sections": [
+                            {
+                                "name": "Life Vessel",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 732,
+                                "y": 572
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 732,
+                                "y": 1557
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Bandana",
+                        "sections": [
+                            {
+                                "name": "Bandana",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 692,
+                                "y": 472
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 692,
+                                "y": 1457
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shiitake (Shaft)",
+                        "sections": [
+                            {
+                                "name": "Shiitake (Shaft)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 752,
+                                "y": 652
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 752,
+                                "y": 1637
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shiitake (Cavern)",
+                        "sections": [
+                            {
+                                "name": "Shiitake (Cavern)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 732,
+                                "y": 672
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 732,
+                                "y": 1657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Caverns Entrance",
+                        "sections": [
+                            {
+                                "name": "Toadstool",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Nunchaku",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 752,
+                                "y": 672
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 752,
+                                "y": 1657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Underwater",
+                        "access_rules": [
+                            "holysymbol"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Antivenom",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Life Vessel",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 592,
+                                "y": 692
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 592,
+                                "y": 1677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pentagram",
+                        "sections": [
+                            {
+                                "name": "Pentagram",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 492,
+                                "y": 672
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 492,
+                                "y": 1657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Herald Shield",
+                        "access_rules": [
+                            "leapstone",
+                            "$canFly",
+                            "$canDash"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Herald Shield",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 432,
+                                "y": 672
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 432,
+                                "y": 1657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Below Bridge",
+                        "access_rules": [
+                            "leapstone",
+                            "$canFly",
+                            "$canDash"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Life Vessel",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Heart Vessel",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 572,
+                                "y": 672
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 572,
+                                "y": 1657
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Succubus Area",
+                        "access_rules": [
+                            "$canFly"
+                        ],
+                        "children": [
+                            {
+                                "name": "Claymore",
+                                "sections": [
+                                    {
+                                        "name": "Claymore",
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "normal",
+                                        "x": 852,
+                                        "y": 512
+                                    },
+                                    {
+                                        "map": "both_vertical",
+                                        "x": 852,
+                                        "y": 1497
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Succubus Approach",
+                                "sections": [
+                                    {
+                                        "name": "Meal Ticket",
+                                        "item_count": 4
+                                    },
+                                    {
+                                        "name": "Moonstone",
+                                        "item_count": 1
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "normal",
+                                        "x": 872,
+                                        "y": 582
+                                    },
+                                    {
+                                        "map": "both_vertical",
+                                        "x": 872,
+                                        "y": 1567
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Succubus",
+                                "sections": [
+                                    {
+                                        "name": "Gold Ring",
+                                        "item_count": 1
+                                    },
+                                    {
+                                        "name": "Succubus Kill",
+                                        "hosted_item": "succubus"
+                                    }
+                                ],
+                                "map_locations": [
+                                    {
+                                        "map": "normal",
+                                        "x": 892,
+                                        "y": 592
+                                    },
+                                    {
+                                        "map": "both_vertical",
+                                        "x": 892,
+                                        "y": 1577
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Crystal Cloak",
+                        "sections": [
+                            {
+                                "name": "Crystal Cloak",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 792,
+                                "y": 692
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 792,
+                                "y": 1677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scimitar",
+                        "sections": [
+                            {
+                                "name": "Scimitar",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 892,
+                                "y": 712
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 892,
+                                "y": 1697
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Resist Ice",
+                        "sections": [
+                            {
+                                "name": "Resist Ice",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 852,
+                                "y": 712
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 852,
+                                "y": 1697
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Pot Roast",
+                        "sections": [
+                            {
+                                "name": "Pot Roast",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 892,
+                                "y": 692
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 892,
+                                "y": 1677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Scylla",
+                        "sections": [
+                            {
+                                "name": "Scylla kill",
+                                "hosted_item": "scylla"
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 812,
+                                "y": 692
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 812,
+                                "y": 1677
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Knuckle Duster",
+                        "sections": [
+                            {
+                                "name": "Knuckle Duster",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 792,
+                                "y": 772
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 792,
+                                "y": 1757
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Life Vessel (Holy Symbol)",
+                        "sections": [
+                            {
+                                "name": "Life Vessel (Holy Symbol)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 832,
+                                "y": 772
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 832,
+                                "y": 1757
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Onyx",
+                        "access_rules": [
+                            "mermanstatue",
+                            "$canJump"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Onyx",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 892,
+                                "y": 752
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 892,
+                                "y": 1737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Elixir",
+                        "access_rules": [
+                            "mermanstatue"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Elixir",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 1032,
+                                "y": 772
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 1032,
+                                "y": 1757
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Holy Symbol",
+                        "access_rules": [
+                            "mermanstatue"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Holy Symbol",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 1092,
+                                "y": 752
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 1092,
+                                "y": 1737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Secret Boots",
+                        "access_rules": [
+                            "$canJump"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Secret Boots",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 472,
+                                "y": 712
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 472,
+                                "y": 1697
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shiitake (Waterfall)",
+                        "access_rules": [
+                            "$canJump"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Shiitake (Waterfall)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 452,
+                                "y": 732
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 452,
+                                "y": 1717
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Lower Caverns",
+                "access_rules": [
+                    "jewelofopen",
+                    "opened_no4"
+                ],
+                "children": [
+                    {
+                        "name": "Toadstool (Waterfall)",
+                        "access_rules": [
+                            "$canJump"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Toadstool (Waterfall)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 452,
+                                "y": 772
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 452,
+                                "y": 1757
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Life Vessel (Behind Waterfall)",
+                        "sections": [
+                            {
+                                "name": "Life Vessel (Behind Waterfall)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 492,
+                                "y": 772
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 492,
+                                "y": 1757
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Shiitake (Near Entrance Passage)",
+                        "sections": [
+                            {
+                                "name": "Shiitake (Near Entrance Passage)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 332,
+                                "y": 752
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 332,
+                                "y": 1737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Life Vessel (Entrance Passage)",
+                        "sections": [
+                            {
+                                "name": "Life Vessel (Entrance Passage)",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 272,
+                                "y": 752
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 272,
+                                "y": 1737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Merman Statue",
+                        "sections": [
+                            {
+                                "name": "Merman Statue",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 152,
+                                "y": 772
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 152,
+                                "y": 1757
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

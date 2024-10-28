@@ -1,0 +1,373 @@
+[
+    {
+        "name": "Royal Chapel",
+        "access_rules": [
+            "jewelofopen",
+            "$canJump"
+        ],
+        "children": [
+            {
+                "name": "Middle of Stairs",
+                "access_rules": [
+                    "$canJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Ankh of Life",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "TNT",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 112,
+                        "y": 392
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 112,
+                        "y": 1377
+                    }
+                ]
+            },
+            {
+                "name": "Morningstar",
+                "access_rules": [
+                    "$canJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Morningstar",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 172,
+                        "y": 352
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 172,
+                        "y": 1337
+                    }
+                ]
+            },
+            {
+                "name": "Silver Ring",
+                "access_rules": [
+                    "jewelofopen,formofmist,spikebreaker"
+                ],
+                "sections": [
+                    {
+                        "name": "Silver Ring",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 152,
+                        "y": 232
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 152,
+                        "y": 1217
+                    }
+                ]
+            },
+            {
+                "name": "Aquamarine",
+                "sections": [
+                    {
+                        "name": "Aquamarine",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 32,
+                        "y": 472
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 32,
+                        "y": 1457
+                    }
+                ]
+            },
+            {
+                "name": "Bottom of Stairs",
+                "access_rules": [
+                    "$canJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Mystic Pendant",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Magic Missile",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 72,
+                        "y": 432
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 72,
+                        "y": 1417
+                    }
+                ]
+            },
+            {
+                "name": "Shuriken",
+                "access_rules": [
+                    "$canJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Shuriken",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 92,
+                        "y": 412
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 92,
+                        "y": 1397
+                    }
+                ]
+            },
+            {
+                "name": "Boomerang",
+                "access_rules": [
+                    "$canJump"
+                ],
+                "sections": [
+                    {
+                        "name": "Boomerang",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 132,
+                        "y": 372
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 132,
+                        "y": 1357
+                    }
+                ]
+            },
+            {
+                "name": "Goggles",
+                "sections": [
+                    {
+                        "name": "Goggles",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 192,
+                        "y": 352
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 192,
+                        "y": 1337
+                    }
+                ]
+            },
+            {
+                "name": "Silver Plate",
+                "sections": [
+                    {
+                        "name": "Silver Plate",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 272,
+                        "y": 172
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 272,
+                        "y": 1157
+                    }
+                ]
+            },
+            {
+                "name": "Str. Potion",
+                "sections": [
+                    {
+                        "name": "Str. Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 292,
+                        "y": 192
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 292,
+                        "y": 1177
+                    }
+                ]
+            },
+            {
+                "name": "Life Vessel",
+                "sections": [
+                    {
+                        "name": "Life Vessel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 272,
+                        "y": 192
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 272,
+                        "y": 1177
+                    }
+                ]
+            },
+            {
+                "name": "Zircon",
+                "sections": [
+                    {
+                        "name": "Zircon",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 372,
+                        "y": 152
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 372,
+                        "y": 1137
+                    }
+                ]
+            },
+            {
+                "name": "Cutlass",
+                "sections": [
+                    {
+                        "name": "Cutlass",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 532,
+                        "y": 132
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 532,
+                        "y": 1117
+                    }
+                ]
+            },
+            {
+                "name": "Potion",
+                "sections": [
+                    {
+                        "name": "Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 532,
+                        "y": 152
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 532,
+                        "y": 1137
+                    }
+                ]
+            },
+            {
+                "name": "Knight Shield",
+                "sections": [
+                    {
+                        "name": "Knight Shield",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 272,
+                        "y": 372
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 272,
+                        "y": 1357
+                    }
+                ]
+            },
+            {
+                "name": "Hippogryph",
+                "sections": [
+                    {
+                        "name": "Hippogryph kill",
+                        "hosted_item": "hippogryph"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 462,
+                        "y": 192
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 462,
+                        "y": 1177
+                    }
+                ]
+            }
+        ]
+    }
+]

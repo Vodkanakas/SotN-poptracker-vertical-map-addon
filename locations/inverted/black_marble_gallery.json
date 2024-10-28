@@ -1,0 +1,243 @@
+[
+    {
+        "name": "Black Marble Gallery",
+        "access_rules": [
+            "$canAccessInvertedCastle"
+        ],
+        "children": [
+            {
+                "name": "Library Card",
+                "sections": [
+                    {
+                        "name": "Library Card",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 732,
+                        "y": 372
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 732,
+                        "y": 372
+                    }
+                ]
+            },
+            {
+                "name": "Left Clock",
+                "sections": [
+                    {
+                        "name": "Resist Dark",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Resist Holy",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Resist Thunder",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Resist Fire",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 582,
+                        "y": 552
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 582,
+                        "y": 552
+                    }
+                ]
+            },
+            {
+                "name": "Life Vessel",
+                "sections": [
+                    {
+                        "name": "Life Vessel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 652,
+                        "y": 592
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 652,
+                        "y": 592
+                    }
+                ]
+            },
+            {
+                "name": "Heart Vessel",
+                "sections": [
+                    {
+                        "name": "Heart Vessel",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 572,
+                        "y": 592
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 572,
+                        "y": 592
+                    }
+                ]
+            },
+            {
+                "name": "Iron Ball",
+                "sections": [
+                    {
+                        "name": "Iron Ball",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 372,
+                        "y": 532
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 372,
+                        "y": 532
+                    }
+                ]
+            },
+            {
+                "name": "Meal Ticket",
+                "access_rules": [
+                    "jewelofopen"
+                ],
+                "sections": [
+                    {
+                        "name": "Meal Ticket",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 332,
+                        "y": 572
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 332,
+                        "y": 572
+                    }
+                ]
+            },
+            {
+                "name": "Antivenom",
+                "sections": [
+                    {
+                        "name": "Antivenom",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 752,
+                        "y": 472
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 752,
+                        "y": 472
+                    }
+                ]
+            },
+            {
+                "name": "Potion",
+                "sections": [
+                    {
+                        "name": "Potion",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "inverted",
+                        "x": 752,
+                        "y": 432
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 752,
+                        "y": 432
+                    }
+                ]
+            },
+            {
+                "name": "Inside Clock",
+                "access_rules": [
+                    "$canFightDracula"
+                ],
+                "children": [
+                    {
+                        "name": "Heart Refresh",
+                        "sections": [
+                            {
+                                "name": "Heart Refresh",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "inverted",
+                                "x": 592,
+                                "y": 512
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 592,
+                                "y": 512
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Kill Dracula",
+                        "sections": [
+                            {
+                                "name": "Kill Dracula",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "inverted",
+                                "x": 612,
+                                "y": 432
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 612,
+                                "y": 432
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "name": "Abandoned Mine",
+        "access_rules": [
+            "@Underground Caverns/Upper Caverns/Below Bridge"
+        ],
+        "children": [
+            {
+                "name": "Behind Demon Button",
+                "access_rules": [
+                    "demoncard"
+                ],
+                "children": [
+                    {
+                        "name": "Demon Button Room",
+                        "sections": [
+                            {
+                                "name": "Power of Sire",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Barley Tea",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Peanuts",
+                                "item_count": 4
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 712,
+                                "y": 752
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 712,
+                                "y": 1737
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Demon Button Shaft",
+                        "sections": [
+                            {
+                                "name": "Ring of Ares",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Turkey",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 732,
+                                "y": 752
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 732,
+                                "y": 1737
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Mine Shaft Bottom",
+                "sections": [
+                    {
+                        "name": "Karma Coin",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Combat Knife",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 612,
+                        "y": 892
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 612,
+                        "y": 1877
+                    }
+                ]
+            },
+            {
+                "name": "Mine Shaft Middle",
+                "sections": [
+                    {
+                        "name": "Shiitake",
+                        "item_count": 2
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 632,
+                        "y": 852
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 632,
+                        "y": 1837
+                    }
+                ]
+            },
+            {
+                "name": "Cerberus",
+                "sections": [
+                    {
+                        "name": "Cerberus kill",
+                        "hosted_item": "cerberus"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 602,
+                        "y": 732
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 602,
+                        "y": 1717
+                    }
+                ]
+            },
+            {
+                "name": "Demon Card",
+                "sections": [
+                    {
+                        "name": "Demon Card",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 572,
+                        "y": 812
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 572,
+                        "y": 1797
+                    }
+                ]
+            }
+        ]
+    }
+]

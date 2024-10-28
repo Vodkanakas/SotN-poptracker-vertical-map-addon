@@ -1,0 +1,226 @@
+[
+    {
+        "name": "Castle Keep",
+        "children": [
+            {
+                "name": "Keep Bottom",
+                "access_rules": [
+                    "$canJump",
+                    "jewelofopen"
+                ],
+                "sections": [
+                    {
+                        "name": "Turquoise",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Turkey",
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Leap Stone",
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "normal",
+                        "x": 612,
+                        "y": 152
+                    },
+                    {
+                        "map": "both_vertical",
+                        "x": 612,
+                        "y": 1137
+                    }
+                ]
+            },
+            {
+                "name": "Main Keep",
+                "access_rules": [
+                    "$canJump"
+                ],
+                "children": [
+                    {
+                        "name": "Below Throne",
+                        "access_rules": [
+                            "$canFly"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Fire Mail",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Power of Mist",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 612,
+                                "y": 112
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 612,
+                                "y": 1097
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Tyrfing",
+                        "sections": [
+                            {
+                                "name": "Tyrfing",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 772,
+                                "y": 152
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 772,
+                                "y": 1137
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Falchion",
+                        "sections": [
+                            {
+                                "name": "Falchion",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 772,
+                                "y": 92
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 772,
+                                "y": 1077
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Heart Vessel",
+                        "access_rules": [
+                            "$canFly"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Heart Vessel",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 692,
+                                "y": 92
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 692,
+                                "y": 1077
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Above Throne",
+                        "access_rules": [
+                            "$canFly"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Sirloin",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Turkey",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Pot Roast",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Frankfurter",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Resist Stone",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Resist Dark",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Resist Holy",
+                                "item_count": 1
+                            },
+                            {
+                                "name": "Platinum Mail",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 672,
+                                "y": 52
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 672,
+                                "y": 1037
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Viewing Room",
+                        "access_rules": [
+                            "$canFly"
+                        ],
+                        "sections": [
+                            {
+                                "name": "Life Vessel",
+                                "item_count": 2
+                            },
+                            {
+                                "name": "Heart Vessel",
+                                "item_count": 2
+                            },
+                            {
+                                "name": "Ghost Card",
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "normal",
+                                "x": 762,
+                                "y": 52
+                            },
+                            {
+                                "map": "both_vertical",
+                                "x": 762,
+                                "y": 1037
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
