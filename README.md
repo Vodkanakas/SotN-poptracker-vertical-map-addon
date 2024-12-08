@@ -9,8 +9,8 @@ What this does:
 
 To use
 
-download the original tracker and extract it
-navigate to `\poptracker\packs\sotn_ap_maptracker_0.1.12`
-download this pack and extract it
-copy the contents of `\poptracker\packs\SotN-poptracker-vertical-map-addon-main` to `\poptracker\packs\sotn_ap_maptracker_0.1.12`
-reload the tracker
+  1) download the original tracker and extract it
+  2) navigate to `\poptracker\packs\sotn_ap_maptracker_0.1.12`
+  3) download this pack and extract it
+  4) copy the contents of `\poptracker\packs\SotN-poptracker-vertical-map-addon-main` to `\poptracker\packs\sotn_ap_maptracker_0.1.12`
+  5) reload the tracker
